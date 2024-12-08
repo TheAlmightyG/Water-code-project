@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Waters-code-project/static/css/main.13b545e2.css",
+    "main.js": "/Waters-code-project/static/js/main.961634cf.js",
+    "static/js/453.aa7662b1.chunk.js": "/Waters-code-project/static/js/453.aa7662b1.chunk.js",
+    "static/media/food.jpg": "/Waters-code-project/static/media/food.f8d998ab6414d1316896.jpg",
+    "index.html": "/Waters-code-project/index.html",
+    "main.13b545e2.css.map": "/Waters-code-project/static/css/main.13b545e2.css.map",
+    "main.961634cf.js.map": "/Waters-code-project/static/js/main.961634cf.js.map",
+    "453.aa7662b1.chunk.js.map": "/Waters-code-project/static/js/453.aa7662b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13b545e2.css",
+    "static/js/main.961634cf.js"
+  ]
+}
